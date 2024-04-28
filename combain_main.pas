@@ -371,8 +371,6 @@ begin
     end;
   end;
 end; { bomb_declare }
-end; {???}
-
 
 procedure probability_toCrash;
 begin
@@ -953,7 +951,7 @@ gotoXY(13, 14);
 write('Score: ', score);
 repeat
 until keypressed;
-end;
+end.
 
 
 
