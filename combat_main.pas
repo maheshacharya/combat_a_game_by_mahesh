@@ -1,4 +1,4 @@
-{written in 1989 by Mahesh Acharya
+{written in 1989 by Mahesh Acharya}
 {$i graph.p}
 label 10;
 Var
