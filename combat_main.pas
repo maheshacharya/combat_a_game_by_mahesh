@@ -1,4 +1,5 @@
-{$i graph.p written in 1989 by Mahesh Acharya}
+{written in 1989 by Mahesh Acharya
+{$i graph.p}
 label 10;
 Var
   X, init_hide, init_xtank, init_tank, init_sound,
